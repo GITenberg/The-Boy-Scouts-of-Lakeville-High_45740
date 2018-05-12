@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '43430'
     url: http://www.gutenberg.org/2009/agents/43430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45740#The-Boy-Scouts-of-Lakeville-High
 gutenberg_issued: '2014-05-24'
 gutenberg_type: Text
 identifiers:
