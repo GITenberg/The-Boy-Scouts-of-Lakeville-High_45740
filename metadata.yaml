@@ -1,0 +1,33 @@
+_repo: The-Boy-Scouts-of-Lakeville-High_45740
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kirkpatrick, William Arber-Brown
+    alias: Kirkpatrick, W. (William Arber-Brown)
+    birthdate: 1880
+    gutenberg_agent_id: '37332'
+    url: http://www.gutenberg.org/2009/agents/37332
+covers:
+- cover_type: archival
+  image_path: 45740-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quirk, Leslie W.
+    birthdate: 1882
+    gutenberg_agent_id: '43430'
+    url: http://www.gutenberg.org/2009/agents/43430
+description: ''
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'High schools -- Juvenile fiction'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Boy Scouts of Lakeville High
+url: http://www.gutenberg.org/ebooks/45740
